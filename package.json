@@ -30,10 +30,8 @@
     "less-openui5": "^0.1.1",
     "maxmin": "^1.0.1",
     "multiline": "^1.0.2",
-    "pretty-data": "^0.40.0",
+    "openui5-preload": "git+ssh://git@github.com/r-murphy/openui5-preload.git",
     "serve-static": "^1.10.0",
-    "slash": "^1.0.0",
-    "uglify-js": "^2.4.17",
     "url-join": "0.0.1"
   },
   "devDependencies": {
